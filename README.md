@@ -1,4 +1,4 @@
-# Node Backend Project
+# Nodejs Typescript Setup
 
 Nodejs project setup with Typescript, ESLint, Prettier
 
