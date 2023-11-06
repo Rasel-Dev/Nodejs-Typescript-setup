@@ -10,7 +10,7 @@
 		"strict": true /* Enable all strict type-checking options. */,
 		"skipLibCheck": true /* Skip type checking all .d.ts files. */,
 		"paths": {
-			"@src/*": ["src/*"] // Now you can import file like '@src/somefile/...'
+			"@/*": ["./src/*"] // Now you can import file like '@/somefile/...'
 		}
 	},
 	"include": ["src/**/*.ts"],
